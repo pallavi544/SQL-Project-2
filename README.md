@@ -1,9 +1,13 @@
 # SQL-Project-2
 This project simulates a Student Course Management System for an educational institution. It demonstrates the design and implementation of a relational database to manage students, instructors, courses, and enrollments. The project encompasses the following key operations:
 
-## Database Creation: Establishes a new database named course_management.
+## Database Creation:
 
-## Schema Definition: Creates a schema named Edtech to logically group database objects.
+Establishes a new database named course_management.
+
+## Schema Definition: 
+
+Creates a schema named Edtech to logically group database objects.
 
 ## Table Definitions:
 
